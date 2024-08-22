@@ -1,20 +1,17 @@
 ---
-name: Community challenge
+name: Community Challenge
 about: Crie uma Issue sobre o desafio proposto a comunidade
 title: "[Desafio]"
-labels: enhancement
+labels: community challenge
 assignees: ''
 
 ---
 
-**Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema.
+*Tem alguma sugestão para quem for fazer o Desafio? Por favor, descreva*
+Uma descrição do que pode ser feito
 
-**Descreva a solução que você gostaria**
-Uma descrição clara e concisa do que você quer que aconteça.
+*Descreva como você realizou o seu*
+Uma descrição sobre como você fez
 
-**Descreva as alternativas que você considerou**
-Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
-
-**Contexto adicional**
-Adicione qualquer outro contexto ou captura de tela sobre a solicitação de recurso aqui.
+*Links Úteis*
+- [Nome do Link](URL)
