@@ -2,7 +2,7 @@
 name: Community challenge
 about: Crie uma Issue sobre o desafio proposto a comunidade
 title: "[DESAFIO]"
-labels: ''
+labels: Community challenge
 assignees: dussouza
 
 ---
